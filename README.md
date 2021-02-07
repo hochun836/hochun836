@@ -14,6 +14,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Base] 編碼與解碼](https://blog.hochun836.com/2020/11/21/base/encode-decode.html)
+- [[Python] import 概念](https://blog.hochun836.com/2020/10/03/python/import-concept.html)
+- [[Window] 好用工具](https://blog.hochun836.com/2020/10/02/window/useful-tools.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.hochun836.com)
