@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Ho.Chun 👋
 
-<!--
-**hochun836/hochun836** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
 
-Here are some ideas to get you started:
+[<img align="left" alt="blog.hochun836.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="blog.hochun836.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/facebook.svg" />][facebook]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://blog.hochun836.com)
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Ho.Chun's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hochun836&show_icons=true&hide_border=true" />
+
+</details>
+
+[website]: https://blog.hochun836.com
+[facebook]: https://www.facebook.com/peter.kang.374
