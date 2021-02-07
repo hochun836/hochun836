@@ -1,7 +1,5 @@
 ### Hi there, I'm Ho.Chun 👋
 
-## I'm a Developer !
-
 - 🔭 I'm a full stack engineer
 
 ### Connect with me:
