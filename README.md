@@ -1,5 +1,9 @@
 ### Hi there, I'm Ho.Chun 👋
 
+## I'm a Developer !
+
+- 🔭 I'm a full stack engineer
+
 ### Connect with me:
 
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
