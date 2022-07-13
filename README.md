@@ -1,8 +1,8 @@
-### Hi there, I'm Ho.Chun 👋
+### 👋 Hi there, I'm Ho.Chun
 
-- 🔭 I'm a full stack engineer
+I'm a full stack engineer
 
-### 👉 Connect with me:
+### 👉 Connect with me
 
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -21,12 +21,9 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### :zap: GitHub Stats
 
-  <img align="left" alt="Ho.Chun's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hochun836&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="Ho.Chun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hochun836&show_icons=true&hide_border=true" />
 
 [website]: https://blog.hochun836.com
 [facebook]: https://www.facebook.com/peter.kang.374
